@@ -30,7 +30,7 @@ export default function DragonStage({ level }: Props) {
       />
 
       <motion.img
-        src="/dragons/stage1.png" 
+        src="/dragon.png" 
         alt="Dragon"
         className="w-72 drop-shadow-xl relative z-10"
         animate={{
